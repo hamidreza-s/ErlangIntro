@@ -1,6 +1,5 @@
 %% @author Hamidreza Soleimani <hamidreza.s@gmail.com>
-%% @doc Functions calculatin velocities
-%% dropped in vacuum.
+%% @doc A demo for math
 %% @version 0.1
 
 -module(mathdemo).
@@ -11,5 +10,3 @@ absolute_value(Number) when Number < 0 -> -Number;
 absolute_value(0) -> 0;
 absolute_value(Number) -> Number.
 %% ----------------------------------->
-
-

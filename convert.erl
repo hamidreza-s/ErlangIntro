@@ -1,6 +1,5 @@
 %% @author Hamidreza Soleimani <hamidreza.s@gmail.com>
-%% @doc Functions calculatin velocities
-%% dropped in vacuum.
+%% @doc Converter function
 %% @version 0.1
 
 -module(convert).

@@ -1,6 +1,5 @@
 %% @author Hamidreza Soleimani <hamidreza.s@gmail.com>
-%% @doc Functions calculatin velocities
-%% dropped in vacuum.
+%% @doc Function to combine fall velocity with convertor
 %% @version 0.1
 
 -module(combined).
